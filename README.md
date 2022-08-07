@@ -10,7 +10,7 @@
 - 🔭 I currently study at [Trybe](https://www.betrybe.com/)
 - 📫 How to reach me: brunabutten@gmail.com
 - 🧠 I'm constantly learning, reading and **studying all the time**!
-- 🌱 I'm studying **Software Engineering** and I have experience at [Trybe](https://www.betrybe.com/) with: JavaScript / HTML / CSS / React / Redux / Unit Tests / Docker / MySQL / Express
+- 🌱 I'm studying **Software Engineering** and I have experience at [Trybe](https://www.betrybe.com/) with: JavaScript / HTML / CSS / React / Redux / Unit Tests / Docker / MySQL / Express / Typescript
 
 <h3 align="center"> Socials </h3>
 
