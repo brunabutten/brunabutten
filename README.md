@@ -1,7 +1,7 @@
 
 <h3>Passionate about Technology and Aspiring Full Stack Developer | DBA</h3>
 
-I'm studying **Software Engineering** and I have experience at [Trybe](https://www.betrybe.com/) with: JavaScript | HTML | CSS | React | Redux | Unit Tests | Docker | MySQL | Express | Typescript | Python | VPS | SQL | DBA
+I'm studying **Software Engineering** and I have experience at [Trybe](https://www.betrybe.com/) with: JavaScript | HTML | CSS | React | Redux | Unit Tests | Docker | MySQL | Express | Typescript | POO| Solid | Sequelize ORM | Node.js | MongoDB| Python | VPS | SQL | DBA
 
 I'm fascinated by databases and I dedicate myself to learning more and more.
 
