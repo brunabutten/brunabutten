@@ -1,9 +1,9 @@
 
 <h3>Passionate about Technology and Aspiring Full Stack Developer | DBA</h3>
 
-I'm studying **Software Engineering** and I have experience at [Trybe](https://www.betrybe.com/) with: JavaScript | HTML | CSS | React | Redux | Unit Tests | Docker | MySQL | Express | Typescript | POO| Solid | Sequelize ORM | Node.js | MongoDB| Python | VPS | SQL | DBA
+I'm fascinated by databases! I'm currently focusing on Power BI through Alura's courses and I'm dedicating myself and learning more and more.
 
-I'm fascinated by databases and I dedicate myself to learning more and more.
+I'm studying **Software Engineering** and majored in Web Software Development at [Trybe](https://www.betrybe.com/) with: JavaScript | HTML | CSS | React | Redux | Unit Tests | Docker | MySQL | Express | Typescript | POO| Solid | Sequelize ORM | Node.js | MongoDB| Python | VPS | SQL | DBA
 
 <h3>Languages and Tools</h3>
 <p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
