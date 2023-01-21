@@ -1,5 +1,5 @@
 
-<h3>Passionate about Technology and Aspiring Full Stack Developer | DBA</h3>
+<h3>Passionate about Technology and Full Stack Developer | Future DBA</h3>
 
 I'm fascinated by databases! I'm currently focusing on Power BI through Alura's courses and I'm dedicating myself and learning more and more.
 
