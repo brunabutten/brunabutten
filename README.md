@@ -1,7 +1,7 @@
 
-<h3>Passionate about Technology and Full Stack Developer | Future data scientist</h3>
+<h3>Data Analyst | Data Scientist | Full Stack Developer </h3>
 
-I'm fascinated by data science! I'm currently focusing on Business Integilligence in Power BI through Alura courses and I'm dedicating myself and learning more and more.
+I'm fascinated by data science! I'm currently focusing on Business Intelligence, data processing, salesforce and I'm dedicating myself and learning more and more.
 
 I'm studying **Software Engineering** and majored in Web Software Development at [Trybe](https://www.betrybe.com/) with: JavaScript | HTML | CSS | React | Redux | Unit Tests | Docker | MySQL | Express | Typescript | POO| Solid | Sequelize ORM | Node.js | MongoDB| Python | VPS | SQL | DBA
 
