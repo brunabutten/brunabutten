@@ -1,10 +1,11 @@
 
 <h3>Analista de Dados</h3>
 
+Minha carreira é focada em análise de dados, com foco em Business Intelligence e ciência de dados. Sinto grande fascínio pela capacidade do Power BI em transformar dados brutos em insights valiosos. Além disso, adquiri conhecimentos em SQL e Python durante minha formação na Trybe, e estou focando especificamente nessas áreas para me aprimorar ainda mais. Acredito que a combinação dessas habilidades, juntamente com minha paixão por análise de dados, me posiciona de forma estratégica para enfrentar desafios e contribuir para o sucesso de projetos relacionados a Ciência de Dados, Business Intelligence e tomada de decisões baseada em dados.
+
 
 Tenho uma sólida experiência em engenharia, atualmente cursando Ciência de Dados e com diploma de conclusão da [Trybe](https://www.betrybe.com/) em **Desenvolvimento de Software Web**. Durante minha jornada na Trybe, adquiri conhecimento em diversas áreas, incluindo desenvolvimento web, front-end, back-end e ciência da computação, despertando particular interesse pela ciência de dados. 
 
-Minha carreira é focada em análise de dados, com foco em Business Intelligence e ciência de dados. Sinto grande fascínio pela capacidade do Power BI em transformar dados brutos em insights valiosos. Além disso, adquiri conhecimentos em SQL e Python durante minha formação na Trybe, e estou focando especificamente nessas áreas para me aprimorar ainda mais. Acredito que a combinação dessas habilidades, juntamente com minha paixão por análise de dados, me posiciona de forma estratégica para enfrentar desafios e contribuir para o sucesso de projetos relacionados a Engenharia de Dados, Business Intelligence e tomada de decisões baseada em dados.
 
 Contato: brunabutten@gmail.com
 Telefone: 48 999528448
