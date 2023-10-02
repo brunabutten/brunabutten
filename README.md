@@ -1,7 +1,7 @@
 
 <h3>Analista de Dados</h3>
 
-Minha carreira é focada em análise de dados, com foco em Business Intelligence e ciência de dados. Sinto grande fascínio pela capacidade em transformar dados brutos em insights valiosos. Acredito que a combinação dessas habilidades, juntamente com minha paixão por análise de dados, me posiciona de forma estratégica para enfrentar desafios e contribuir para o sucesso de projetos relacionados a Análise de Dados, Business Intelligence e tomada de decisões baseada em dados.
+Minha carreira é focada em análise de dados, com foco em Business Intelligence aliada a inteligência artificial e engenharia de dados. Sinto grande fascínio pela capacidade em transformar dados brutos em insights valiosos. Acredito que a combinação dessas habilidades, juntamente com minha paixão por análise e IA, me posiciona de forma estratégica para enfrentar desafios e contribuir para o sucesso de projetos relacionados a Análise de Dados, Business Intelligence e tomada de decisões baseada em dados.
 
 Tenho uma sólida experiência em engenharia, atualmente cursando Pós Graduação em Ciência de Dados e com diploma de conclusão da [Trybe](https://www.betrybe.com/) em **Desenvolvimento de Software Web**.
 
