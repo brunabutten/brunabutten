@@ -1,5 +1,5 @@
 
-<h3>Analista de Dados</h3>
+<h3>Engineer and data Analytic | Fullstack Developer</h3>
 
 I'm fascinated by the art of turning raw data into actionable insights. My journey in the tech world is fueled by a passion for Business Intelligence, artificial intelligence, and data engineering.
 
